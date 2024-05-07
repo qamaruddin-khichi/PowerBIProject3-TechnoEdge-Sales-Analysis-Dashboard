@@ -12,7 +12,7 @@
 
 ### About
 
-This repository contains the TechnoEdge Sales Analysis Dashboard, which aims to analyze the sales performance of TechnoEdge across various regions, cities, ship modes, sub-categories, and customer segments.
+This project contains the TechnoEdge Sales Analysis Dashboard, which aims to analyze the sales performance of TechnoEdge across various regions, cities, ship modes, sub-categories, and customer segments.
 
 ---
 
@@ -41,4 +41,4 @@ The purpose of the dashboard is to provide insights into TechnoEdge's sales perf
 
 ### Conclusion
 
-The TechnoEdge Sales Analysis Dashboard provides valuable insights into the company's sales performance. By identifying trends and areas for improvement, TechnoEdge can make data-driven decisions to optimize their sales strategy and profitability.
+The TechnoEdge Sales Analysis Dashboard provides valuable insights into the company's sales performance. By identifying trends and areas for improvement, TechnoEdge can make data-driven decisions to optimize its sales strategy and profitability.
