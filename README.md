@@ -1,5 +1,7 @@
 # PowerBIProject3 - TechnoEdge Sales Analysis Dashboard
 
+Explore the interactive dashboard: [TechnoEdge Sales Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM4YWI1YWQtNDc1ZC00NDFkLWE2YmYtOTcwZGE5ZTZjMDcwIiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
+
 ### Table of Contents
 
 - [About](#about)
